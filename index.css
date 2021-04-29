@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    padding-top: 5%;
+}
+
+.active {
+    display: block;
+}
+
+.inactive {
+    display: none;
+}
